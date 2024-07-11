@@ -1,0 +1,1 @@
+from .truco_agente import default_q
